@@ -44,7 +44,7 @@ public class TestOne {
 
     @BeforeClass
     public static void oneTimeSetUp() {
-        expectedCount = 12;
+        expectedCount = 10;
         results = new ArrayList<String>();
         resultsIndexForTitleCheck = 0;
 
